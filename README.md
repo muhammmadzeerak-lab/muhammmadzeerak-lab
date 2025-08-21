@@ -18,7 +18,7 @@
 
 ## 🌍 Connect with Me
 - 📧 Email: **muhammmadzeerak@gmail.com**  
-- 🌐 LinkedIn: [Your Profile Link]  
+- 🌐 LinkedIn:  [Muhammad zeerak](www.linkedin.com/in/muhammad-zeerak-89689b36b) 
 - 📷 Instagram: [@dazzledot.pk](https://instagram.com/yourpage)  
 - 🎥 TikTok: [DazzleDot Shop](https://tiktok.com/@yourshop)
 - 📱 Whatsapp: [ +92 3052669014 ]
