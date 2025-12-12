@@ -19,8 +19,8 @@
 
 - WordPress Website Design (Elementor, WooCommerce)  
 - SEO & Speed Optimization  
-- Social Media Management (Facebook & Instagram)  
-- Meta Ads (Paid Campaigns)  
+- Social Media Management  
+- Meta Ads Campaigns  
 - Canva Branding & Creative Designing  
 
 ---
@@ -41,7 +41,7 @@
 - 🤝 **Viva Welfare Organization** – Non-profit Foundation  
   🔗 https://vivawelfare.com/  
 
-- 🌊 **Pakistan Fisherfolk Forum (PFF)** – Official Website Management  
+- 🌊 **Pakistan Fisherfolk Forum (PFF)** – Website Management  
   🔗 https://pff.org.pk/  
 
 ### 🌍 Travel & Community  
@@ -75,12 +75,9 @@ Currently managing branded social media for:
 
 ---
 
-## 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-zeerak-89689b36b)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dazzledot.pk)  
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@yourshop)  
+## 📍 Connect With Me  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammmadzeerak@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923052669014)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923052669014)
 
 ---
 
