@@ -69,8 +69,9 @@ I currently manage content, design & marketing for:
 ---
 
 ## 📊 GitHub Stats  
-![Zeerak's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammmadzeerak-lab&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammmadzeerak-lab&layout=compact&theme=tokyonight)  
+![Zeerak's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadzeerak-lab&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzeerak-lab&layout=compact&theme=tokyonight)
+ 
 
 ---
 
