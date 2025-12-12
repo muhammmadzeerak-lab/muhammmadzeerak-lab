@@ -1,9 +1,11 @@
-# Hi, I'm Muhammad Zeerak 👋  
+# 👋 Hi, I'm Muhammad Zeerak  
 
-🚀 **WordPress & Digital Marketing Specialist**  
-🌱 Founder of [DazzleDot](https://dazzledot.pk) | Creator of [Travel With Nakhwa](https://travelwithnakhwa.liveblog365.com/)  
+🚀 **WordPress Developer | WooCommerce Expert | Digital Marketer**  
+🌱 Founder of **[DazzleDot](https://dazzledot.pk)**  
+📢 Social Media Manager for multiple brands  
+🎯 I help businesses grow with **Web Development + SEO + Social Media + Paid Ads**
 
----<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400">
+---
 
 ## 🛠️ Skills & Tools  
 <p align="left">
@@ -13,20 +15,59 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
-</p>  
+</p>
 
 - WordPress Website Design (Elementor, WooCommerce)  
-- Digital Marketing (Meta Ads, SEO, Canva Designing)  
+- SEO & Speed Optimization  
+- Social Media Management (Facebook & Instagram)  
+- Meta Ads (Paid Campaigns)  
+- Canva Branding & Creative Designing  
 
 ---
 
-## 📌 Projects  
-- 🌸 [DazzelDot](https://dazzledot.pk/) – Women’s Clothing & Accessories Brand  
-- 🌊 [Travel With Nakhwa](https://travelwithnakhwa.liveblog365.com/) – Tourism & Eco-Adventure Platform
-- 🌐 Pakistan Fisherfolk Forum (PFF)(https://pff.org.pk/) – Official Website Management & Updates
+## 🌐 Websites I Have Built & Managed  
+
+### ⭐ E-Commerce & Brands  
+- 🛍️ **My Choice Foods** – Frozen & Fast Food Brand  
+  🔗 https://mychoicefoods.pk/  
+
+- 🌸 **DazzleDot** – Women’s Clothing & Accessories Brand  
+  🔗 https://dazzledot.pk/  
+
+### 🏢 Companies & Organizations  
+- 🏥 **TPMCL** – Medical Services & Consultancy  
+  🔗 https://tpmcl.pk/  
+
+- 🤝 **Viva Welfare Organization** – Non-profit Foundation  
+  🔗 https://vivawelfare.com/  
+
+- 🌊 **Pakistan Fisherfolk Forum (PFF)** – Official Website Management  
+  🔗 https://pff.org.pk/  
+
+### 🌍 Travel & Community  
+- 🌊 **Travel With Nakhwa** – Tourism & Eco-Adventure Platform  
+  🔗 https://travelwithnakhwa.liveblog365.com/  
 
 ---
 
+## 📢 Social Media Management  
+Currently managing branded social media for:  
+
+- DazzleDot  
+- My Choice Foods  
+- Viva Welfare  
+- TPMCL  
+- Travel With Nakhwa  
+- PFF (Updates & Maintenance)
+
+**Services:**  
+✔ Content Calendar  
+✔ Reels & Posters  
+✔ Meta Ads  
+✔ Page Optimization  
+✔ Canva Creative Designing  
+
+---
 
 ## 📊 GitHub Stats  
 ![Zeerak's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammmadzeerak-lab&show_icons=true&theme=tokyonight)  
@@ -43,6 +84,6 @@
 
 ---
 
-⭐️ From [Muhammad Zeerak](https://github.com/muhammmadzeerak-lab)  
+⭐ **From Muhammad Zeerak**
 
 
