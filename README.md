@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Muhammad Zeerak  
 
 🚀 **WordPress Developer | WooCommerce Expert | Digital Marketer**  
-🌱 Founder of **[DazzleDot](https://dazzledot.pk)**  
-📢 Social Media Manager for multiple brands  
-🎯 I help businesses grow with **Web Development + SEO + Social Media + Paid Ads**
+💼 I build and manage professional websites for brands, companies & organizations.  
+📢 I also handle social media and digital marketing for multiple clients.
 
 ---
 
@@ -25,42 +24,42 @@
 
 ---
 
-## 🌐 Websites I Have Built & Managed  
+## 🌐 Websites I Have Built & Currently Manage  
 
 ### ⭐ E-Commerce & Brands  
-- 🛍️ **My Choice Foods** – Frozen & Fast Food Brand  
+- 🛍️ **My Choice Foods** – Frozen & Fast Food Brand (Website + Social Media)  
   🔗 https://mychoicefoods.pk/  
 
-- 🌸 **DazzleDot** – Women’s Clothing & Accessories Brand  
+- 🌸 **DazzleDot** – Women’s Clothing & Accessories Brand (Website + Social Media)  
   🔗 https://dazzledot.pk/  
 
 ### 🏢 Companies & Organizations  
-- 🏥 **TPMCL** – Medical Services & Consultancy  
+- 🏥 **TPMCL** – Medical Services & Consultancy (Website + Updates)  
   🔗 https://tpmcl.pk/  
 
-- 🤝 **Viva Welfare Organization** – Non-profit Foundation  
+- 🤝 **Viva Welfare Organization** – Non-profit Foundation (Website + Social Media)  
   🔗 https://vivawelfare.com/  
 
-- 🌊 **Pakistan Fisherfolk Forum (PFF)** – Website Management  
+- 🌊 **Pakistan Fisherfolk Forum (PFF)** – Official Website (Management & Updates)  
   🔗 https://pff.org.pk/  
 
 ### 🌍 Travel & Community  
-- 🌊 **Travel With Nakhwa** – Tourism & Eco-Adventure Platform  
+- 🌊 **Travel With Nakhwa** – Tourism & Eco-Adventure Platform (Website + Social Media)  
   🔗 https://travelwithnakhwa.liveblog365.com/  
 
 ---
 
 ## 📢 Social Media Management  
-Currently managing branded social media for:  
+I currently manage content, design & marketing for:
 
 - DazzleDot  
 - My Choice Foods  
 - Viva Welfare  
 - TPMCL  
 - Travel With Nakhwa  
-- PFF (Updates & Maintenance)
+- PFF (Basic updates)
 
-**Services:**  
+**What I Do:**  
 ✔ Content Calendar  
 ✔ Reels & Posters  
 ✔ Meta Ads  
@@ -78,6 +77,11 @@ Currently managing branded social media for:
 ## 📍 Connect With Me  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammmadzeerak@gmail.com)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923052669014)
+
+---
+
+⭐ **From Muhammad Zeerak**
+
 
 ---
 
