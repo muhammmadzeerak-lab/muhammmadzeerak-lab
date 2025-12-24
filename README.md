@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Muhammad Zeerak  
 
-🚀 **WordPress Developer | WooCommerce Expert | Digital Marketer**  
-💼 I build and manage professional websites for brands, companies & organizations.  
-📢 I also handle social media and digital marketing for multiple clients.
+🚀 **WordPress Developer | WooCommerce Specialist | Digital Marketer**  
+💼 I design, develop, and manage professional websites for brands, companies, and organizations.  
+📢 I also handle social media management, branding, and paid marketing campaigns.
 
 ---
 
 ## 🛠️ Skills & Tools  
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" width="40" height="40"/>
@@ -16,77 +17,89 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
 </p>
 
-- WordPress Website Design (Elementor, WooCommerce)  
-- SEO & Speed Optimization  
+**Core Skills**  
+- WordPress Website Design using Elementor  
+- WooCommerce Store Setup and Customization  
+- SEO and Website Speed Optimization  
 - Social Media Management  
 - Meta Ads Campaigns  
-- Canva Branding & Creative Designing  
+- Canva Branding and Creative Designing  
 
 ---
 
-## 🌐 Websites I Have Built & Currently Manage  
+## 🌐 Websites I Have Built and Manage  
 
-### ⭐ E-Commerce & Brands  
-- 🛍️ **My Choice Foods** – Frozen & Fast Food Brand (Website + Social Media)  
+### ⭐ E Commerce and Fashion Brands  
+
+- **My Choice Foods**  
+  Frozen and Fast Food Brand, Website and Social Media  
   🔗 https://mychoicefoods.pk/  
 
-- 🌸 **DazzleDot** – Women’s Clothing & Accessories Brand (Website + Social Media)  
+- **DazzleDot**  
+  Women Clothing and Accessories Brand, Website and Social Media  
   🔗 https://dazzledot.pk/  
 
-### 🏢 Companies & Organizations  
-- 🏥 **TPMCL** – Medical Services & Consultancy (Website + Updates)  
+- **Viva Fashions**  
+  Fashion and Clothing Brand, Website Management  
+  🔗 https://vivafashions.com/  
+
+---
+
+### 🏢 Companies and Organizations  
+
+- **TPMCL**  
+  Medical Services and Consultancy  
   🔗 https://tpmcl.pk/  
 
-- 🤝 **Viva Welfare Organization** – Non-profit Foundation (Website + Social Media)  
+- **Viva Welfare Organization**  
+  Non Profit Foundation  
   🔗 https://vivawelfare.com/  
 
-- 🌊 **Pakistan Fisherfolk Forum (PFF)** – Official Website (Management & Updates)  
+- **Pakistan Fisherfolk Forum (PFF)**  
+  Official Website Management  
   🔗 https://pff.org.pk/  
 
-### 🌍 Travel & Community  
-- 🌊 **Travel With Nakhwa** – Tourism & Eco-Adventure Platform (Website + Social Media)  
+---
+
+### 🌍 Travel and Community Projects  
+
+- **Travel With Nakhwa**  
+  Tourism and Eco Adventure Platform  
   🔗 https://travelwithnakhwa.liveblog365.com/  
 
 ---
 
 ## 📢 Social Media Management  
-I currently manage content, design & marketing for:
+
+I manage content, design, and marketing for:  
 
 - DazzleDot  
 - My Choice Foods  
+- Viva Fashions  
 - Viva Welfare  
 - TPMCL  
 - Travel With Nakhwa  
-- PFF (Basic updates)
+- PFF  
 
-**What I Do:**  
-✔ Content Calendar  
-✔ Reels & Posters  
-✔ Meta Ads  
+**Responsibilities**  
+✔ Content Planning and Calendar  
+✔ Reels, Posters, and Creatives  
+✔ Meta Ads Setup and Optimization  
 ✔ Page Optimization  
 ✔ Canva Creative Designing  
 
 ---
 
 ## 📊 GitHub Stats  
+
 ![Zeerak's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadzeerak-lab&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzeerak-lab&layout=compact&theme=tokyonight)
-
- 
 
 ---
 
 ## 📍 Connect With Me  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammmadzeerak@gmail.com)  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammmadzeerak@gmail.com)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923052669014)
-
----
-
-⭐ **From Muhammad Zeerak**
-
-
----
-
-⭐ **From Muhammad Zeerak**
 
 
