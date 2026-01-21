@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Muhammad Zeerak  
 
-🚀 **WordPress Developer | WooCommerce Specialist | Digital Marketer**  
-💼 I design, develop, and manage professional websites for brands, companies, and organizations.  
-📢 I also handle social media management, branding, and paid marketing campaigns.
+🚀 WordPress Developer | WooCommerce Specialist  
+
+I design, develop, and manage professional WordPress websites for brands, companies, and organizations.  
+I also handle social media management, branding, and paid marketing campaigns.
 
 ---
 
@@ -17,13 +18,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
 </p>
 
-**Core Skills**  
-- WordPress Website Design using Elementor  
-- WooCommerce Store Setup and Customization  
-- SEO and Website Speed Optimization  
-- Social Media Management  
-- Meta Ads Campaigns  
-- Canva Branding and Creative Designing  
+### Core Skills  
+- WordPress website design using Elementor  
+- WooCommerce store setup and customization  
+- SEO and website speed optimization  
+- Social media management  
+- Meta ads campaigns  
+- Canva branding and creative designing  
 
 ---
 
@@ -31,75 +32,79 @@
 
 ### ⭐ E Commerce and Fashion Brands  
 
-- **My Choice Foods**  
-  Frozen and Fast Food Brand, Website and Social Media  
-  🔗 https://mychoicefoods.pk/  
+**My Choice Foods**  
+Frozen and fast food brand  
+Website development, product management, and social media  
+https://mychoicefoods.pk/
 
-- **DazzleDot**  
-  Women Clothing and Accessories Brand, Website and Social Media  
-  🔗 https://dazzledot.pk/  
+**DazzleDot**  
+Women clothing and accessories brand  
+WooCommerce store setup and website management  
+https://dazzledot.pk/
 
-- **Viva Fashions**  
-  Fashion and Clothing Brand, Website Management  
-  🔗 https://vivafashions.com/  
+**Viva Fashions**  
+Fashion and clothing brand  
+Website design, product listing, and maintenance  
+https://vivafashions.com/
+
+**Rimsim**  
+E commerce website  
+WooCommerce store setup, product management, and optimization  
+https://rimsim.com/
 
 ---
 
 ### 🏢 Companies and Organizations  
 
-- **TPMCL**  
-  Medical Services and Consultancy  
-  🔗 https://tpmcl.pk/  
+**TPMCL**  
+Medical services and consultancy  
+Corporate website development and management  
+https://tpmcl.pk/
 
-- **Viva Welfare Organization**  
-  Non Profit Foundation  
-  🔗 https://vivawelfare.com/  
+**Viva Welfare Organization**  
+Non profit foundation  
+Website development and digital presence  
+https://vivawelfare.com/
 
-- **Pakistan Fisherfolk Forum (PFF)**  
-  Official Website Management  
-  🔗 https://pff.org.pk/  
+**Pakistan Fisherfolk Forum (PFF)**  
+Non government organization  
+Official website management  
+https://pff.org.pk/
 
----
-
-### 🌍 Travel and Community Projects  
-
-- **Travel With Nakhwa**  
-  Tourism and Eco Adventure Platform  
-  🔗 https://travelwithnakhwa.liveblog365.com/  
+**Noori Development Foundation (Noori DF)**  
+Social development and community services  
+Website development and content management  
+http://nooridf.org/
 
 ---
 
 ## 📢 Social Media Management  
 
-I manage content, design, and marketing for:  
+I manage content creation, design, and marketing for  
 
 - DazzleDot  
 - My Choice Foods  
 - Viva Fashions  
 - Viva Welfare  
 - TPMCL  
-- Travel With Nakhwa  
-- PFF  
+- Pakistan Fisherfolk Forum  
 
-**Responsibilities**  
-✔ Content Planning and Calendar  
-✔ Reels, Posters, and Creatives  
-✔ Meta Ads Setup and Optimization  
-✔ Page Optimization  
-✔ Canva Creative Designing  
-
----
-
-## 📊 GitHub Stats  
-
-![Zeerak's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadzeerak-lab&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzeerak-lab&layout=compact&theme=tokyonight)
+### Responsibilities  
+- Content planning and calendar  
+- Reels, posters, and creatives  
+- Meta ads setup and optimization  
+- Page optimization  
+- Canva creative designing  
 
 ---
 
 ## 📍 Connect With Me  
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammmadzeerak@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923052669014)
+📧 Email  
+muhammmadzeerak@gmail.com  
+
+📱 WhatsApp  
+https://wa.me/923052669014
+
 
 
