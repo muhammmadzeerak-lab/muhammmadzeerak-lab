@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Zeerak  
 
-🚀 WordPress Developer | WooCommerce Specialist  
+🚀 **WordPress Developer | WooCommerce Specialist**
 
 I design, develop, and manage professional WordPress websites for brands, companies, and organizations.  
 I also handle social media management, branding, and paid marketing campaigns.
@@ -35,22 +35,27 @@ I also handle social media management, branding, and paid marketing campaigns.
 **My Choice Foods**  
 Frozen and fast food brand  
 Website development, product management, and social media  
-https://mychoicefoods.pk/
+🔗 https://mychoicefoods.pk/
 
 **DazzleDot**  
 Women clothing and accessories brand  
 WooCommerce store setup and website management  
-https://dazzledot.pk/
+🔗 https://dazzledot.pk/
 
 **Viva Fashions**  
 Fashion and clothing brand  
 Website design, product listing, and maintenance  
-https://vivafashions.com/
+🔗 https://vivafashions.com/
 
 **Rimsim**  
 E commerce website  
 WooCommerce store setup, product management, and optimization  
-https://rimsim.com/
+🔗 https://rimsim.com/
+
+**Elitra Store**  
+E commerce brand  
+WooCommerce store development and optimization  
+🔗 https://elitra.store/
 
 ---
 
@@ -58,23 +63,19 @@ https://rimsim.com/
 
 **TPMCL**  
 Medical services and consultancy  
-Corporate website development and management  
-https://tpmcl.pk/
+🔗 https://tpmcl.pk/
 
 **Viva Welfare Organization**  
 Non profit foundation  
-Website development and digital presence  
-https://vivawelfare.com/
+🔗 https://vivawelfare.com/
 
 **Pakistan Fisherfolk Forum (PFF)**  
 Non government organization  
-Official website management  
-https://pff.org.pk/
+🔗 https://pff.org.pk/
 
-**Noori Development Foundation (Noori DF)**  
+**Noori Development Foundation**  
 Social development and community services  
-Website development and content management  
-http://nooridf.org/
+🔗 http://nooridf.org/
 
 ---
 
@@ -100,11 +101,11 @@ I manage content creation, design, and marketing for
 
 ## 📍 Connect With Me  
 
-📧 Email  
+📧 **Email**  
 muhammmadzeerak@gmail.com  
 
-📱 WhatsApp  
-https://wa.me/923052669014
+📱 **WhatsApp**  
+https://wa.me/923052669014  
 
 
 
