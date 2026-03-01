@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Muhammad Zeerak  
 
-🚀 **WordPress Developer | WooCommerce Specialist**
+🚀 **WordPress Developer | Digital Marketing Specialist**
 
-I design, develop, and manage professional WordPress websites for brands, companies, and organizations.  
-I also handle social media management, branding, and paid marketing campaigns.
+I design, develop, and manage professional WordPress and WooCommerce websites for brands, companies, and organizations.  
+Along with website development, I handle complete digital marketing and social media management, including content creation, branding, and paid advertising campaigns.
 
 ---
 
@@ -37,25 +37,30 @@ Frozen and fast food brand
 Website development, product management, and social media  
 🔗 https://mychoicefoods.pk/
 
-**DazzleDot**  
-Women clothing and accessories brand  
-WooCommerce store setup and website management  
-🔗 https://dazzledot.pk/
-
 **Viva Fashions**  
 Fashion and clothing brand  
-Website design, product listing, and maintenance  
+Website design, product listing, maintenance, and marketing  
 🔗 https://vivafashions.com/
 
 **Rimsim**  
 E commerce website  
-WooCommerce store setup, product management, and optimization  
+WooCommerce store setup, product management, optimization, and digital marketing  
 🔗 https://rimsim.com/
 
 **Elitra Store**  
 E commerce brand  
-WooCommerce store development and optimization  
+WooCommerce store development, optimization, and marketing  
 🔗 https://elitra.store/
+
+**Aqua Foods**  
+Seafood and frozen products brand  
+WooCommerce store development, product management, and social media marketing  
+🔗 https://aquafoods.pk/
+
+**Aqua Lounge**  
+Hospitality and lounge services  
+Website design, management, and digital marketing  
+🔗 https://aqualounge.pk/
 
 ---
 
@@ -63,44 +68,50 @@ WooCommerce store development and optimization
 
 **TPMCL**  
 Medical services and consultancy  
+Website development and digital presence management  
 🔗 https://tpmcl.pk/
 
 **Viva Welfare Organization**  
 Non profit foundation  
+Website development and social media management  
 🔗 https://vivawelfare.com/
 
 **Pakistan Fisherfolk Forum (PFF)**  
 Non government organization  
+Website management and social media campaigns  
 🔗 https://pff.org.pk/
 
 **Noori Development Foundation**  
 Social development and community services  
+Website development and maintenance  
 🔗 http://nooridf.org/
 
 ---
 
-## 📢 Social Media Management  
+## 📢 Social Media & Digital Marketing  
 
-I manage content creation, design, and marketing for  
+I manage content creation, branding, and paid marketing campaigns for  
 
-- DazzleDot  
 - My Choice Foods  
 - Viva Fashions  
 - Viva Welfare  
 - TPMCL  
 - Pakistan Fisherfolk Forum  
+- Aqua Foods  
+- Aqua Lounge  
 
 ### Responsibilities  
-- Content planning and calendar  
-- Reels, posters, and creatives  
+- Content planning and calendar management  
+- Reels, posters, and creative design  
 - Meta ads setup and optimization  
-- Page optimization  
-- Canva creative designing  
+- Page growth and engagement strategy  
+- Brand identity and Canva designing  
 
 ---
 
-## 📍 Connect With Me  
+## 📍 Let’s Work Together  
 
+I help brands build strong online presence through professional websites and result driven digital marketing strategies.
 📧 **Email**  
 muhammmadzeerak@gmail.com  
 
