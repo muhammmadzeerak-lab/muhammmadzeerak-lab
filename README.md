@@ -95,9 +95,9 @@ I manage content creation, branding, and paid marketing campaigns for
 
 - My Choice Foods  
 - Viva Fashions  
-- Viva Welfare  
+- Viva Welfare
+- JAS Motors
 - TPMCL  
-- Pakistan Fisherfolk Forum  
 - Aqua Foods  
 - Aqua Lounge  
 
