@@ -62,6 +62,12 @@ Hospitality and lounge services
 Website design, management, and digital marketing  
 🔗 https://aqualounge.pk/
 
+**JAS Motors**  
+Automotive sales and services
+Website development and social media management
+
+🔗 https://jasmotors.pk/
+
 ---
 
 ### 🏢 Companies and Organizations  
@@ -75,11 +81,6 @@ Website development and digital presence management
 Non profit foundation  
 Website development and social media management  
 🔗 https://vivawelfare.com/
-
-**Pakistan Fisherfolk Forum (PFF)**  
-Non government organization  
-Website management and social media campaigns  
-🔗 https://pff.org.pk/
 
 **Noori Development Foundation**  
 Social development and community services  
