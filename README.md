@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="Muhammad Zeerak — WordPress Developer and Digital Marketing Specialist" width="1000" />
+  <img src="./assets/banner.gif" alt="Muhammad Zeerak, WordPress Developer and Digital Marketing Specialist" width="1000">
 </p>
 
 <p align="center">
-  <a href="https://wa.me/923052669014"><img src="assets/whatsapp.svg" alt="Let's talk on WhatsApp" width="260" /></a>
-  <a href="mailto:muhammmadzeerak@gmail.com"><img src="assets/email.svg" alt="Email Muhammad Zeerak" width="212" /></a>
+  <a href="https://wa.me/923052669014">
+    <img src="./assets/whatsapp.svg" alt="Let's talk on WhatsApp" width="260">
+  </a>
+  <a href="mailto:muhammmadzeerak@gmail.com">
+    <img src="./assets/email.svg" alt="Email Muhammad Zeerak" width="212">
+  </a>
 </p>
 
 ## Hi, I'm Muhammad Zeerak 👋
@@ -15,79 +19,135 @@ I design, develop and manage WordPress websites and WooCommerce stores for brand
 
 From a brand's website to its social content, I bring the technical and creative work together to build a consistent online presence.
 
-<p align="center"><img src="assets/divider.gif" alt="" width="1000" /></p>
-
-## 🧰 Skills & tools
-
 <p align="center">
-  <img src="assets/skill-wordpress.svg" alt="WordPress" width="214" />
-  <img src="assets/skill-woocommerce.svg" alt="WooCommerce" width="214" />
-  <img src="assets/skill-elementor.svg" alt="Elementor" width="214" />
-  <img src="assets/skill-html-css.svg" alt="HTML and CSS" width="214" />
-  <img src="assets/skill-javascript.svg" alt="JavaScript" width="214" />
-  <img src="assets/skill-canva.svg" alt="Canva" width="214" />
-  <img src="assets/skill-seo.svg" alt="SEO and speed optimization" width="214" />
-  <img src="assets/skill-meta-ads.svg" alt="Meta Ads" width="214" />
+  <img src="./assets/divider.gif" alt="" width="1000">
 </p>
 
-| Website development | Digital marketing |
+## 🧰 Skills & Tools
+
+<p align="center">
+  <img src="./assets/skill-wordpress.svg" alt="WordPress" width="214">
+  <img src="./assets/skill-woocommerce.svg" alt="WooCommerce" width="214">
+  <img src="./assets/skill-elementor.svg" alt="Elementor" width="214">
+  <img src="./assets/skill-html-css.svg" alt="HTML and CSS" width="214">
+</p>
+
+<p align="center">
+  <img src="./assets/skill-javascript.svg" alt="JavaScript" width="214">
+  <img src="./assets/skill-canva.svg" alt="Canva" width="214">
+  <img src="./assets/skill-seo.svg" alt="SEO and Speed Optimization" width="214">
+  <img src="./assets/skill-meta-ads.svg" alt="Meta Ads" width="214">
+</p>
+
+| Website Development | Digital Marketing |
 | :--- | :--- |
 | WordPress & Elementor websites | Social media management |
 | WooCommerce setup & customization | Content planning & calendars |
 | Responsive HTML, CSS & JavaScript | Reels, posters & creative design |
-| SEO & website speed optimization | Meta ads setup & optimization |
+| SEO & website speed optimization | Meta Ads setup & optimization |
 | Product listings & site maintenance | Canva branding & engagement strategy |
 
-<p align="center"><img src="assets/divider.gif" alt="" width="1000" /></p>
+<p align="center">
+  <img src="./assets/divider.gif" alt="" width="1000">
+</p>
 
-## 🌐 Websites I've built & manage
+## 🌐 Websites I've Built & Manage
 
 A selection of **11 projects** across business, e-commerce, nonprofits, hospitality and sports. Click a project card to visit the website.
 
 <table>
 <tr>
 <td width="50%">
-<a href="https://tpmcl.pk/"><img src="assets/projects/tpmcl.svg" alt="TPMCL — Business & consultancy — tpmcl.pk" width="490" /></a>
+
+<a href="https://tpmcl.pk/">
+<img src="./assets/projects/tpmcl.svg" alt="TPMCL, Business and Consultancy" width="490">
+</a>
+
 </td>
 <td width="50%">
-<a href="https://mychoicefoods.pk/"><img src="assets/projects/my-choice-foods.svg" alt="My Choice Foods — Food & e-commerce — mychoicefoods.pk" width="490" /></a>
+
+<a href="https://mychoicefoods.pk/">
+<img src="./assets/projects/my-choice-foods.svg" alt="My Choice Foods, Food and E-commerce" width="490">
+</a>
+
 </td>
 </tr>
+
 <tr>
 <td width="50%">
-<a href="https://pcba.org.pk/"><img src="assets/projects/pcba.svg" alt="PCBA — Trade association — pcba.org.pk" width="490" /></a>
+
+<a href="https://pcba.org.pk/">
+<img src="./assets/projects/pcba.svg" alt="PCBA, Trade Association" width="490">
+</a>
+
 </td>
 <td width="50%">
-<a href="https://vivawelfare.com/"><img src="assets/projects/viva-welfare.svg" alt="Viva Welfare Foundation — Nonprofit & community — vivawelfare.com" width="490" /></a>
+
+<a href="https://vivawelfare.com/">
+<img src="./assets/projects/viva-welfare.svg" alt="Viva Welfare Foundation, Nonprofit and Community" width="490">
+</a>
+
 </td>
 </tr>
+
 <tr>
 <td width="50%">
-<a href="https://vivafashions.com/"><img src="assets/projects/viva-fashions.svg" alt="Viva Fashions — Fashion & e-commerce — vivafashions.com" width="490" /></a>
+
+<a href="https://vivafashions.com/">
+<img src="./assets/projects/viva-fashions.svg" alt="Viva Fashions, Fashion and E-commerce" width="490">
+</a>
+
 </td>
 <td width="50%">
-<a href="https://voululuxury.com/"><img src="assets/projects/voulu-luxury.svg" alt="Voulu Luxury — Luxury & lifestyle — voululuxury.com" width="490" /></a>
+
+<a href="https://voululuxury.com/">
+<img src="./assets/projects/voulu-luxury.svg" alt="Voulu Luxury, Luxury and Lifestyle" width="490">
+</a>
+
 </td>
 </tr>
+
 <tr>
 <td width="50%">
-<a href="https://rimsim.com/"><img src="assets/projects/rimsim.svg" alt="Rimsim — Fashion & retail — rimsim.com" width="490" /></a>
+
+<a href="https://rimsim.com/">
+<img src="./assets/projects/rimsim.svg" alt="Rimsim, Fashion and Retail" width="490">
+</a>
+
 </td>
 <td width="50%">
-<a href="https://nooridf.org/"><img src="assets/projects/noori-foundation.svg" alt="Noori Development Foundation — Community development — nooridf.org" width="490" /></a>
+
+<a href="https://nooridf.org/">
+<img src="./assets/projects/noori-foundation.svg" alt="Noori Development Foundation, Community Development" width="490">
+</a>
+
 </td>
 </tr>
+
 <tr>
 <td width="50%">
-<a href="https://srxaep7.ca/"><img src="assets/projects/srxaep7.svg" alt="SRXAEP7 — Sports & digital media — srxaep7.ca" width="490" /></a>
+
+<a href="https://srxaep7.ca/">
+<img src="./assets/projects/srxaep7.svg" alt="SRXAEP7, Sports and Digital Media" width="490">
+</a>
+
 </td>
 <td width="50%">
-<a href="https://aquafoods.pk/"><img src="assets/projects/aqua-foods.svg" alt="Aqua Foods — Seafood & e-commerce — aquafoods.pk" width="490" /></a>
+
+<a href="https://aquafoods.pk/">
+<img src="./assets/projects/aqua-foods.svg" alt="Aqua Foods, Seafood and E-commerce" width="490">
+</a>
+
 </td>
 </tr>
+
 <tr>
 <td colspan="2" align="center">
-<a href="https://aqualounge.pk/"><img src="assets/projects/aqua-lounge.svg" alt="Aqua Lounge — Restaurant & hospitality — aqualounge.pk" width="490" /></a>
+
+<a href="https://aqualounge.pk/">
+<img src="./assets/projects/aqua-lounge.svg" alt="Aqua Lounge, Restaurant and Hospitality" width="490">
+</a>
+
 </td>
 </tr>
 </table>
@@ -111,19 +171,19 @@ A selection of **11 projects** across business, e-commerce, nonprofits, hospital
 
 </details>
 
-## 📣 Social media & digital marketing
+## 📣 Social Media & Digital Marketing
 
 I support brands with content planning, creative design, social media management and paid campaigns.
 
-- **Content & creative:** social posts, reels, captions and campaign visuals.
-- **Brand consistency:** coordinated messaging and visual identity across channels.
-- **Paid social:** Meta ads setup, optimization and campaign management.
-- **Ongoing management:** content calendars, page updates and engagement strategy.
+- **Content & Creative:** social posts, reels, captions and campaign visuals.
+- **Brand Consistency:** coordinated messaging and visual identity across channels.
+- **Paid Social:** Meta Ads setup, optimization and campaign management.
+- **Ongoing Management:** content calendars, page updates and engagement strategy.
 
 <details>
 <summary><b>Explore brand social profiles</b></summary>
 
-| Brand | Social channels |
+| Brand | Social Channels |
 | :--- | :--- |
 | TPMCL | [Facebook](https://www.facebook.com/Tpmcl/) · [Instagram](https://www.instagram.com/tpmcl1992/) · [LinkedIn](https://www.linkedin.com/company/110089613/) · [TikTok](https://www.tiktok.com/@tpmcl/) · [YouTube](https://www.youtube.com/@tpmcl6633/) |
 | My Choice Foods | [Facebook](https://www.facebook.com/share/1C2Z5FTV4C/) · [Instagram](https://www.instagram.com/mychoicefoods.pk/) · [LinkedIn](https://www.linkedin.com/company/mychoicefoods/) · [TikTok](https://www.tiktok.com/@my.choice917/) · [YouTube](https://youtube.com/@mychoicefoods-n4d/) |
@@ -137,15 +197,20 @@ I support brands with content planning, creative design, social media management
 
 </details>
 
-<p align="center"><img src="assets/divider.gif" alt="" width="1000" /></p>
+<p align="center">
+  <img src="./assets/divider.gif" alt="" width="1000">
+</p>
 
-## 🤝 Let's work together
+## 🤝 Let's Work Together
 
 Need a WordPress website, an online store or support with your digital presence? Let's discuss your project.
 
-**Email:** [muhammmadzeerak@gmail.com](mailto:muhammmadzeerak@gmail.com)  
+**Email:** [muhammmadzeerak@gmail.com](mailto:muhammmadzeerak@gmail.com)
+
 **WhatsApp:** [+92 305 2669014](https://wa.me/923052669014)
 
 <p align="center">
-  <a href="https://wa.me/923052669014"><img src="assets/whatsapp.svg" alt="Contact Muhammad Zeerak on WhatsApp" width="280" /></a>
+  <a href="https://wa.me/923052669014">
+    <img src="./assets/whatsapp.svg" alt="Contact Muhammad Zeerak on WhatsApp" width="280">
+  </a>
 </p>
