@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="Muhammad Zeerak — WordPress Developer and Digital Marketing Specialist" width="1000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=240&section=header&text=Muhammad%20Zeerak&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WordPress%20Developer%20%C2%B7%20WooCommerce%20Specialist%20%C2%B7%20Digital%20Marketer&descSize=18&descAlignY=58" alt="Muhammad Zeerak — WordPress Developer and Digital Marketing Specialist" width="1000" />
 </p>
 
 <p align="center">
-  <a href="https://wa.me/923052669014"><img src="assets/whatsapp.svg" alt="Let's talk on WhatsApp" width="260" /></a>
-  <a href="mailto:muhammmadzeerak@gmail.com"><img src="assets/email.svg" alt="Email Muhammad Zeerak" width="212" /></a>
+  <a href="https://wa.me/923052669014"><img src="https://img.shields.io/badge/WhatsApp-Let's_talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Let's talk on WhatsApp" /></a>
+  <a href="mailto:muhammmadzeerak@gmail.com"><img src="https://img.shields.io/badge/Email-Muhammad_Zeerak-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Muhammad Zeerak" /></a>
 </p>
 
 ## Hi, I'm Muhammad Zeerak 👋
@@ -15,19 +15,20 @@ I design, develop and manage WordPress websites and WooCommerce stores for brand
 
 From a brand's website to its social content, I bring the technical and creative work together to build a consistent online presence.
 
-<p align="center"><img src="assets/divider.gif" alt="" width="1000" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24&height=4" alt="" width="1000" /></p>
 
 ## 🧰 Skills & tools
 
 <p align="center">
-  <img src="assets/skill-wordpress.svg" alt="WordPress" width="214" />
-  <img src="assets/skill-woocommerce.svg" alt="WooCommerce" width="214" />
-  <img src="assets/skill-elementor.svg" alt="Elementor" width="214" />
-  <img src="assets/skill-html-css.svg" alt="HTML and CSS" width="214" />
-  <img src="assets/skill-javascript.svg" alt="JavaScript" width="214" />
-  <img src="assets/skill-canva.svg" alt="Canva" width="214" />
-  <img src="assets/skill-seo.svg" alt="SEO and speed optimization" width="214" />
-  <img src="assets/skill-meta-ads.svg" alt="Meta Ads" width="214" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/WooCommerce-7F54B3?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML and CSS" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/SEO_%26_Speed-2E9E5B?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="SEO and speed optimization" />
+  <img src="https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads" />
 </p>
 
 | Website development | Digital marketing |
@@ -38,7 +39,7 @@ From a brand's website to its social content, I bring the technical and creative
 | SEO & website speed optimization | Meta ads setup & optimization |
 | Product listings & site maintenance | Canva branding & engagement strategy |
 
-<p align="center"><img src="assets/divider.gif" alt="" width="1000" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24&height=4" alt="" width="1000" /></p>
 
 ## 🌐 Websites I've built & manage
 
@@ -46,48 +47,48 @@ A selection of **11 projects** across business, e-commerce, nonprofits, hospital
 
 <table>
 <tr>
-<td width="50%">
-<a href="https://tpmcl.pk/"><img src="assets/projects/tpmcl.svg" alt="TPMCL — Business & consultancy — tpmcl.pk" width="490" /></a>
+<td width="50%" align="center">
+<a href="https://tpmcl.pk/"><img src="https://img.shields.io/badge/TPMCL-tpmcl.pk-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TPMCL — Business & consultancy — tpmcl.pk" /></a><br/><sub>Business & consultancy</sub>
 </td>
-<td width="50%">
-<a href="https://mychoicefoods.pk/"><img src="assets/projects/my-choice-foods.svg" alt="My Choice Foods — Food & e-commerce — mychoicefoods.pk" width="490" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://pcba.org.pk/"><img src="assets/projects/pcba.svg" alt="PCBA — Trade association — pcba.org.pk" width="490" /></a>
-</td>
-<td width="50%">
-<a href="https://vivawelfare.com/"><img src="assets/projects/viva-welfare.svg" alt="Viva Welfare Foundation — Nonprofit & community — vivawelfare.com" width="490" /></a>
+<td width="50%" align="center">
+<a href="https://mychoicefoods.pk/"><img src="https://img.shields.io/badge/My_Choice_Foods-mychoicefoods.pk-E8590C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Choice Foods — Food & e-commerce — mychoicefoods.pk" /></a><br/><sub>Food & e-commerce</sub>
 </td>
 </tr>
 <tr>
-<td width="50%">
-<a href="https://vivafashions.com/"><img src="assets/projects/viva-fashions.svg" alt="Viva Fashions — Fashion & e-commerce — vivafashions.com" width="490" /></a>
+<td width="50%" align="center">
+<a href="https://pcba.org.pk/"><img src="https://img.shields.io/badge/PCBA-pcba.org.pk-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PCBA — Trade association — pcba.org.pk" /></a><br/><sub>Trade association</sub>
 </td>
-<td width="50%">
-<a href="https://voululuxury.com/"><img src="assets/projects/voulu-luxury.svg" alt="Voulu Luxury — Luxury & lifestyle — voululuxury.com" width="490" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://rimsim.com/"><img src="assets/projects/rimsim.svg" alt="Rimsim — Fashion & retail — rimsim.com" width="490" /></a>
-</td>
-<td width="50%">
-<a href="https://nooridf.org/"><img src="assets/projects/noori-foundation.svg" alt="Noori Development Foundation — Community development — nooridf.org" width="490" /></a>
+<td width="50%" align="center">
+<a href="https://vivawelfare.com/"><img src="https://img.shields.io/badge/Viva_Welfare_Foundation-vivawelfare.com-C2255C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Viva Welfare Foundation — Nonprofit & community — vivawelfare.com" /></a><br/><sub>Nonprofit & community</sub>
 </td>
 </tr>
 <tr>
-<td width="50%">
-<a href="https://srxaep7.ca/"><img src="assets/projects/srxaep7.svg" alt="SRXAEP7 — Sports & digital media — srxaep7.ca" width="490" /></a>
+<td width="50%" align="center">
+<a href="https://vivafashions.com/"><img src="https://img.shields.io/badge/Viva_Fashions-vivafashions.com-9C36B5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Viva Fashions — Fashion & e-commerce — vivafashions.com" /></a><br/><sub>Fashion & e-commerce</sub>
 </td>
-<td width="50%">
-<a href="https://aquafoods.pk/"><img src="assets/projects/aqua-foods.svg" alt="Aqua Foods — Seafood & e-commerce — aquafoods.pk" width="490" /></a>
+<td width="50%" align="center">
+<a href="https://voululuxury.com/"><img src="https://img.shields.io/badge/Voulu_Luxury-voululuxury.com-B8860B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Voulu Luxury — Luxury & lifestyle — voululuxury.com" /></a><br/><sub>Luxury & lifestyle</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://rimsim.com/"><img src="https://img.shields.io/badge/Rimsim-rimsim.com-D6336C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Rimsim — Fashion & retail — rimsim.com" /></a><br/><sub>Fashion & retail</sub>
+</td>
+<td width="50%" align="center">
+<a href="https://nooridf.org/"><img src="https://img.shields.io/badge/Noori_Development_Foundation-nooridf.org-2B8A3E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Noori Development Foundation — Community development — nooridf.org" /></a><br/><sub>Community development</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://srxaep7.ca/"><img src="https://img.shields.io/badge/SRXAEP7-srxaep7.ca-E03131?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SRXAEP7 — Sports & digital media — srxaep7.ca" /></a><br/><sub>Sports & digital media</sub>
+</td>
+<td width="50%" align="center">
+<a href="https://aquafoods.pk/"><img src="https://img.shields.io/badge/Aqua_Foods-aquafoods.pk-1098AD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aqua Foods — Seafood & e-commerce — aquafoods.pk" /></a><br/><sub>Seafood & e-commerce</sub>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<a href="https://aqualounge.pk/"><img src="assets/projects/aqua-lounge.svg" alt="Aqua Lounge — Restaurant & hospitality — aqualounge.pk" width="490" /></a>
+<a href="https://aqualounge.pk/"><img src="https://img.shields.io/badge/Aqua_Lounge-aqualounge.pk-3B5BDB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aqua Lounge — Restaurant & hospitality — aqualounge.pk" /></a><br/><sub>Restaurant & hospitality</sub>
 </td>
 </tr>
 </table>
@@ -137,7 +138,7 @@ I support brands with content planning, creative design, social media management
 
 </details>
 
-<p align="center"><img src="assets/divider.gif" alt="" width="1000" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24&height=4" alt="" width="1000" /></p>
 
 ## 🤝 Let's work together
 
@@ -147,5 +148,5 @@ Need a WordPress website, an online store or support with your digital presence?
 **WhatsApp:** [+92 305 2669014](https://wa.me/923052669014)
 
 <p align="center">
-  <a href="https://wa.me/923052669014"><img src="assets/whatsapp.svg" alt="Contact Muhammad Zeerak on WhatsApp" width="280" /></a>
+  <a href="https://wa.me/923052669014"><img src="https://img.shields.io/badge/WhatsApp-Contact_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact Muhammad Zeerak on WhatsApp" /></a>
 </p>
